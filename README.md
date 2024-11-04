@@ -22,11 +22,11 @@ SO-CL is also tested on five well-known engineering design problems in the field
 
 ### Supported Engineering Problems:
 
-1. **200-Truss Static Optimization**
-2. **10-Truss Static Optimization**
-3. **25-Truss Static Optimization**
-4. **72-Truss Static Optimization**
-5. **120-Truss Static Optimization**
+1. **10-Truss Static Optimization**
+2. **25-Truss Static Optimization**
+3. **72-Truss Static Optimization**
+4. **120-Truss Static Optimization**
+5. **200-Truss Static Optimization**
 
 The truss analyzer function, originally adapted for these cases, has been modified for compatibility with SO-CL. 
 
