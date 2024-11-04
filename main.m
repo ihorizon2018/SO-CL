@@ -4,13 +4,13 @@
 %                                                                                                     
 %  Developed in MATLAB R2024b                                                   %                                                               
 %                                                                                                     
-%  Author and programmer: Pinghe Ni, Xiaoyu Sua, Jinlong Fu*                                                          
+%  Authors and programmers: Pinghe Ni, Xiaoyu Sua, Jinlong Fu*                                                          
 %                                                                                                     
-%         e-Mail: sxy123456@emails.bjut.edu.cn                                                             
+%         e-Mail: jinlong.fu@qmul.ac.uk
+%                 sxy123456@emails.bjut.edu.cn                                                             
 %                 pinghe.ni@connect.polyu.hk
 %
-%  Main paper: A hybrid snake optimizer with crisscross learning strategy       %
-%  for constrainedstructural optimization                                       %
+%  Research article: A hybrid snake optimizer with crisscross learning strategy for constrainedstructural optimization  %
                                                                                                     
 %_______________________________________________________________________________________________
 % The truss analyser function is taken from is slightly modified to be used in this code 
